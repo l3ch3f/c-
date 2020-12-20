@@ -1,0 +1,10 @@
+D:\fullstack\c-\csharp\WindowsFormsApp1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+D:\fullstack\c-\csharp\WindowsFormsApp1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+D:\fullstack\c-\csharp\WindowsFormsApp1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+D:\fullstack\c-\csharp\WindowsFormsApp1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+D:\fullstack\c-\csharp\WindowsFormsApp1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+D:\fullstack\c-\csharp\WindowsFormsApp1\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+D:\fullstack\c-\csharp\WindowsFormsApp1\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+D:\fullstack\c-\csharp\WindowsFormsApp1\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+D:\fullstack\c-\csharp\WindowsFormsApp1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+D:\fullstack\c-\csharp\WindowsFormsApp1\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb

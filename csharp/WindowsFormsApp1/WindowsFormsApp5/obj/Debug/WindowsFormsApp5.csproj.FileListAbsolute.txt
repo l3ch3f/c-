@@ -1,0 +1,10 @@
+D:\fullstack\c-\csharp\WindowsFormsApp1\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+D:\fullstack\c-\csharp\WindowsFormsApp1\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+D:\fullstack\c-\csharp\WindowsFormsApp1\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+D:\fullstack\c-\csharp\WindowsFormsApp1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+D:\fullstack\c-\csharp\WindowsFormsApp1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+D:\fullstack\c-\csharp\WindowsFormsApp1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+D:\fullstack\c-\csharp\WindowsFormsApp1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+D:\fullstack\c-\csharp\WindowsFormsApp1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+D:\fullstack\c-\csharp\WindowsFormsApp1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+D:\fullstack\c-\csharp\WindowsFormsApp1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
