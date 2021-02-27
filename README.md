@@ -1,4 +1,4 @@
-# c# & Reacht
+# c# & React
 course on c#
 And
 React apps
